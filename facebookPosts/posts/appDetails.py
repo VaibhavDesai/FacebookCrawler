@@ -1,5 +1,5 @@
-app_id = '278307132300114'
-app_secret = '1866870ce32a30ca1f2e2e22036d1985'
+app_id = xxxxxxxxxxxxxxx
+app_secret = xxxxxxxxxxxxxxxxxxxxxxx
 redirect_url = 'http://ec2-54-86-22-159.compute-1.amazonaws.com/getCode/'
 scope = ''
 page_id = 6466648220
