@@ -1,0 +1,5 @@
+from facebookData import *
+
+fb_obj = FbData()
+fb.getStoredAccessToken()
+fb.graphConnection()
